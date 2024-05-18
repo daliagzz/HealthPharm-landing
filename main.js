@@ -1,5 +1,5 @@
 document.querySelector('.menu-btn').addEventListener('click', () => {
-    document.querySelector('.nav-menu').classList.toggle('show'); //video a la 1:06:00 explica el toggle
+   document.querySelector('.nav-menu').classList.toggle('show'); //video a la 1:06:00 explica el toggle
 });
 ScrollReveal().reveal('.showcase', {delay: 300});
 ScrollReveal().reveal('.news-cards', {delay: 300});
